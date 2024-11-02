@@ -1,1 +1,3 @@
-# ai-project2
+# Heart Disease Prediction
+# Heart-Disease-Prediction
+# Heart-Disease-Prediction
